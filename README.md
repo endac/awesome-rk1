@@ -12,7 +12,7 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 - [Carrier Boards](#carrier-boards)
 - [Operating Systems](#operating-systems)
 - [Rockchip NPU](#rockchip-npu)
-- [Community](#community)
+- [Projects](#projects)
 
 ## Official Resources
 1. [Turing Machines](https://github.com/turing-machines) - The official Turing Machines repository on GitHub.
@@ -24,7 +24,6 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 2. [reComputer J101 by seeedstudio](https://www.seeedstudio.com/reComputer-J101-v2-Carrier-Board-for-Jetson-Nano-p-5396.html)
 3. [reComputer J202 by seeedstudio](https://www.seeedstudio.com/reComputer-J202-Carrier-Board-for-Jetson-Xavier-NX-p-5397.html)
 4. [reComputer J401 by seeedstudio](https://www.seeedstudio.com/reComputer-J401-Carrier-Board-for-Jetson-Orin-NX-Orin-Nano-p-5636.html)
-5. 
 
 ## Operating Systems
 1. [Ubuntu Desktop 22.04 LTS based on BSP Linux 5.10](https://firmware.turingpi.com/turing-rk1/ubuntu_22.04_rockchip_linux/)
@@ -33,7 +32,6 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 4. [Ubuntu Server 24.04 LTS on Linux 6.1 by Joshua Riek on GitHub](https://joshua-riek.github.io/ubuntu-rockchip-download/boards/turing-rk1.html)
 5. [Talos Linux 1.6](https://firmware.turingpi.com/turing-rk1/talos/)
 6. [ArchLinuxARM-rk3588-installer](https://github.com/SputnikRocket/ArchLinuxARM-rk3588-installer)
-7. 
 
 ## Rockchip NPU
 1. [Yolov8/v10 Demo for RK3588](https://github.com/kaylorchen/rk3588-yolo-demo)
@@ -42,7 +40,7 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 5. [NPU Chat](https://github.com/av1d/NPU-Chat)
 6. [Keypoints_HRNet_RK3588](https://github.com/Applied-Deep-Learning-Lab/Keypoints_HRNet_RK3588)
 
-## Community
+## Projects
 1. [Awesome RK3588](https://github.com/choushunn/awesome-RK3588)
 2. [NixOS running on RK3588/RK3588s](https://github.com/ryan4yin/nixos-rk3588)
 3. [Redroid Image For RK3588 with Multiple Features](https://github.com/CNflysky/redroid-rk3588)
@@ -51,8 +49,6 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 6. [talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
 7. [Windows on ARM device drivers for Rockchip](https://github.com/worproject/Rockchip-Windows-Drivers)
 8. [u-boot-neo](https://github.com/shimmyshai00/u-boot-neo)
-9. [foundation-rk3588](
-10. [rk3588-image-maker](https://github.com/openFyde/rk3588-image-maker)
-11. [LightweightNN](https://github.com/xtuzhu/LightweightNN)
-12. [ffmpeg-drm](https://github.com/avafinger/ffmpeg-drm)
-13. 
+9. [rk3588-image-maker](https://github.com/openFyde/rk3588-image-maker)
+10. [LightweightNN](https://github.com/xtuzhu/LightweightNN)
+11. [ffmpeg-drm](https://github.com/avafinger/ffmpeg-drm)
