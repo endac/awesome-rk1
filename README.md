@@ -12,6 +12,7 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 - [Carrier Boards](#carrier-boards)
 - [Operating Systems](#operating-systems)
 - [Rockchip NPU](#rockchip-npu)
+- [Community](#community)
 
 ## Official Resources
 1. [Turing Machines](https://github.com/turing-machines) - The official Turing Machines repository on GitHub.
@@ -31,4 +32,27 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 3. [Ubuntu Desktop 24.04 LTS on Linux 6.1 by Joshua Riek on GitHub](https://joshua-riek.github.io/ubuntu-rockchip-download/boards/turing-rk1.html)
 4. [Ubuntu Server 24.04 LTS on Linux 6.1 by Joshua Riek on GitHub](https://joshua-riek.github.io/ubuntu-rockchip-download/boards/turing-rk1.html)
 5. [Talos Linux 1.6](https://firmware.turingpi.com/turing-rk1/talos/)
-6. 
+6. [ArchLinuxARM-rk3588-installer](https://github.com/SputnikRocket/ArchLinuxARM-rk3588-installer)
+7. 
+
+## Rockchip NPU
+1. [Yolov8/v10 Demo for RK3588](https://github.com/kaylorchen/rk3588-yolo-demo)
+3. [Reverse-engineering the rk3588 npu](https://github.com/mtx512/rk3588-npu)
+4. [Paroli](https://github.com/marty1885/paroli)
+5. [NPU Chat](https://github.com/av1d/NPU-Chat)
+6. [Keypoints_HRNet_RK3588](https://github.com/Applied-Deep-Learning-Lab/Keypoints_HRNet_RK3588)
+
+## Community
+1. [Awesome RK3588](https://github.com/choushunn/awesome-RK3588)
+2. [NixOS running on RK3588/RK3588s](https://github.com/ryan4yin/nixos-rk3588)
+3. [Redroid Image For RK3588 with Multiple Features](https://github.com/CNflysky/redroid-rk3588)
+4. [llm-rk3588](https://github.com/Chrisz236/llm-rk3588)
+5. [ffmpeg-rockchip](https://github.com/nyanmisaka/ffmpeg-rockchip)
+6. [talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
+7. [Windows on ARM device drivers for Rockchip](https://github.com/worproject/Rockchip-Windows-Drivers)
+8. [u-boot-neo](https://github.com/shimmyshai00/u-boot-neo)
+9. [foundation-rk3588](
+10. [rk3588-image-maker](https://github.com/openFyde/rk3588-image-maker)
+11. [LightweightNN](https://github.com/xtuzhu/LightweightNN)
+12. [ffmpeg-drm](https://github.com/avafinger/ffmpeg-drm)
+13. 
