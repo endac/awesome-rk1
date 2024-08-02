@@ -26,4 +26,9 @@ RK1 is a system-on-module created by Turing Machines. It features an 8-core Rock
 5. 
 
 ## Operating Systems
-1. 
+1. [Ubuntu Desktop 22.04 LTS based on BSP Linux 5.10](https://firmware.turingpi.com/turing-rk1/ubuntu_22.04_rockchip_linux/)
+2. [Ubuntu Server 22.04 LTS based on BSP Linux 5.10](https://firmware.turingpi.com/turing-rk1/ubuntu_22.04_rockchip_linux/)
+3. [Ubuntu Desktop 24.04 LTS on Linux 6.1 by Joshua Riek on GitHub](https://joshua-riek.github.io/ubuntu-rockchip-download/boards/turing-rk1.html)
+4. [Ubuntu Server 24.04 LTS on Linux 6.1 by Joshua Riek on GitHub](https://joshua-riek.github.io/ubuntu-rockchip-download/boards/turing-rk1.html)
+5. [Talos Linux 1.6](https://firmware.turingpi.com/turing-rk1/talos/)
+6. 
